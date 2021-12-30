@@ -1,17 +1,4 @@
 # DevOps
 
 
-
-Something for new
-
-
-
-skdljfl
-jkdklsfjs
-
-
-
-
-sjkdfljsd
-kdjflksjd
-
+changed in loged file with git log
