@@ -1,0 +1,1593 @@
+    1  df
+    2  cd ~/.oh-my-zsh/themes/
+    3  ls -a
+    4  vi ~/.zshrc
+    5  fdgk;dlf
+    6  dfkgldkf
+    7  cd ~/.oh-my-zsh/themes/
+    8  git clone https://github.com/jan-auer/zsh-multiline.git ~/.oh-my-zsh/custom/themes/zsh-multiline
+    9  vi ~/.zshrc
+   10  source ~/.zshrc
+   11  sudo apt-get install powerline fonts-powerline
+   12  cd ~/.oh-my-zsh/plugins/
+   13  ls -a
+   14  git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugins/zsh-autosuggestions\n\ngit clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting
+   15  vi ~/.zshrc
+   16  source ~/.zshrc
+   17  ls
+   18  cd Desktop
+   19  ls
+   20  ~/.zshrc
+   21  vi ~/.zshrc
+   22  ./install.sh
+   23  git clone ^[[200~https://github.com/vinceliuice/Qogir-theme.git~
+   24  git clone https://github.com/vinceliuice/Qogir-theme.git
+   25  ./install.sh
+   26  sudo add-apt-repository ppa:numix/ppa\nsudo apt update\nsudo apt install numix-icon-theme-circle
+   27  mkdir .themes
+   28  cd .themes
+   29  mv com.github.vinceliuice.WhiteSur-dark /home/ubuntu/.themes
+   30  cd 
+   31  cd .themes
+   32  ls
+   33  mv WhiteSur-dark /home/ubuntu/.themes
+   34  cd .icons
+   35  ls
+   36  pwd
+   37  cd /.icons
+   38  cd .icons
+   39  cd .icon
+   40  ls -a
+   41  mkdir .icons
+   42  mv BigSur-black-dark /home/ubuntu/.icons
+   43  mv BigSur-black /home/ubuntu/.icons
+   44  mv BigSur /home/ubuntu/.icons
+   45  timedatectl list-timezones
+   46  sudo timedatectl set-timezone Europe/Rome
+   47  sudo timedatectl set-timezone Asia/Karachi
+   48  ls
+   49  git clone https://github.com/GoAdminGroup/go-admin.git
+   50  $ go install github.com/GoAdminGroup/go-admin/adm
+   51  go install github.com/GoAdminGroup/go-admin/adm
+   52  go install github.com/GoAdminGroup/go-admin/adm@latest
+   53  go install github.com/GoAdminGroup/go-admin/adm
+   54  go install github.com/GoAdminGroup/go-admin/adm@latest
+   55  adm init
+   56  go install github.com/GoAdminGroup/go-admin/adm
+   57  go 
+   58  go  version
+   59  ls
+   60  git clone https://github.com/GoAdminGroup/goadmin-vue-example.git\ncd goadmin-vue-example/backend\n\n# build binary file\nGO111MODULE=on go build -o ./backend .\n# send the binary file to all frontend developers\ncp backend ./../frontend\n
+   61  cd frontend\n# install dependencies\nnpm install --registry=https://registry.npm.taobao.org --prefix ./src/element\n# build vue project\nNODE_ENV=production npm --prefix ./src/element run build\n# use the backend binary file to serve instead of node\nNODE_ENV=production ./backend  --debug=true --theme=sword --ui_theme=element \n
+   62  cd ../
+   63  code .
+   64  LS
+   65  ls
+   66  cd /
+   67  ls -a
+   68  sudo apt-get --purge remove wine
+   69  cd $HOME\nrm -r .wine\nrm .config/menus/applications-merged/wine*\nrm -r .local/share/applications/wine\nrm .local/share/desktop-directories/wine*\nrm .local/share/icons/????_*.xpm
+   70  sudo apt-get remove --purge wine
+   71  sudo apt-get update\nsudo apt-get autoclean\nsudo apt-get clean\nsudo apt-get autoremove
+   72  rm $HOME/.config/menus/applications-merged/wine*\nrm -r $HOME/.local/share/applications/wine\nrm $HOME/.local/share/desktop-directories/wine*
+   73  sudo apt-get remove wine --purge
+   74  sudo apt-get remove wine-1.3 --purge
+   75  rm -rf $HOME/.wine\nrm -f $HOME/.config/menus/applications-merged/*wine*\nrm -rf $HOME/.local/share/applications/wine\nrm -f $HOME/.local/share/desktop-directories/*wine*\nrm -f $HOME/.local/share/icons/*wine*
+   76  sudo reboot
+   77  ifconfig
+   78  git clone https://github.com/antoniopapa/django-ambassador.git
+   79  git clone https://github.com/antoniopapa/vue-ambassador.git
+   80  .code
+   81  code .
+   82  ls
+   83  smb
+   84  etc
+   85  my golang
+   86  golang
+   87  go version
+   88  exi
+   89  exit
+   90  ls -a
+   91  ls -a | grep "gn
+   92  ls -a | grep "gn"
+   93  cat /etc/hosts
+   94  code .
+   95  npm run serve
+   96  npm run dev
+   97  git clone https://github.com/ivanlori/Vuemmerce.git
+   98  code .
+   99  npm i
+  100  ls
+  101  npm run dev
+  102  ls
+  103  npm run serve
+  104  yarn install
+  105  yarn dev
+  106  git clone https://github.com/rheedwahn/nuxt-js-ecommerce.git
+  107  cd
+  108  code .
+  109  npm install
+  110  npm run dev
+  111  yarn install
+  112  yarn dev
+  113  npm run dev
+  114  git clonehttps://github.com/juliecarra/amazon-clone-nuxt.git 
+  115  git clone https://github.com/juliecarra/amazon-clone-nuxt.git 
+  116  cd amazon-clone-nuxt
+  117  code .
+  118  npm install
+  119  npm audit fix
+  120  npm audit fix --force
+  121  npm run dev
+  122  code .
+  123  npm run dev
+  124  ls
+  125  npm i element-ui -S
+  126  npm audit fix 
+  127  npm audit fix
+  128  npm run dev
+  129  git clone https://github.com/v-borutkin/Vue-ecommerce.git
+  130  cd Vue-ecommerce
+  131  code .
+  132  npm i
+  133  npm run dev
+  134  npm run serve
+  135  ls
+  136  cd ..
+  137  ls
+  138  cgit clone https://github.com/TheCoderDream/Vue-Ecommerce-App-with-Vuex.git
+  139  git clone https://github.com/TheCoderDream/Vue-Ecommerce-App-with-Vuex.git
+  140  cd Vue-Ecommerce-App-with-Vuex
+  141  code .
+  142  ls
+  143  yarn install
+  144  yarn run dev
+  145  yarn run serve
+  146  yarn install
+  147  npm install 
+  148  npm run serve
+  149  git clone https://github.com/TheCoderDream/Vue-Ecommerce-App-with-Vuex.git 
+  150  cd Vue-Ecommerce-App-with-Vuex
+  151  code.
+  152  code .
+  153  lss
+  154  ls
+  155  npm i
+  156  npm install -g npm@latest
+  157  sudo npm install -g npm@latest
+  158  npm install -g npm@8.2.0
+  159  sudo npm install -g npm@8.2.0
+  160  npm install debug
+  161  ls 
+  162  npm run serve
+  163  npm run dev
+  164  ls
+  165  npm run serve
+  166  yarn i
+  167  yarn install
+  168  yarn run serve
+  169  mport VueSwal from "vue-swal";
+  170  yarn add vue-swal
+  171  yarn upgrade webpack@^4.0.0
+  172  sudo yarn upgrade webpack@^4.0.0
+  173  yarn install
+  174  sudo yarn install
+  175  sudo yarn upgrade webpack@^4.0.0
+  176  yarn run serve
+  177  yarn add core-js@3
+  178  yarn run serve
+  179  git clone https://github.com/vuethemes/Vue-Ecom.git
+  180  cd Vue-Ecom
+  181  code .
+  182  ls
+  183  npm install
+  184  npm run serve
+  185  https://github.com/james-muriithi/e-comart.git
+  186  git clone https://github.com/james-muriithi/e-comart.git
+  187  cd e-comart
+  188  code .
+  189  npm install
+  190  npm run serve
+  191  git clone https://github.com/cmdparkour/vue-admin-box.git 
+  192  cd vue-admin-box
+  193  code .
+  194  npm install
+  195  npm run seve
+  196  npm run serve
+  197  npm run dev
+  198  code .
+  199  npm run serve
+  200  code .
+  201  vue create Auth
+  202  vue create auth
+  203  cd auth
+  204  npm run serve
+  205  npm install --save @/assets/logo
+  206  npm run serve
+  207  code .
+  208  ls
+  209  npm run serve
+  210  code .
+  211  npm run serve
+  212  code .
+  213  ls
+  214  npm install vue-router
+  215  npm run serve
+  216  npm install --save @/assets/logo.jpeg/
+  217  npm run serve
+  218  import router from "./router";\n
+  219  npm install vue-router@next --save
+  220  npm run serve
+  221  code .
+  222  npm run serve
+  223  git clone https://github.com/james-muriithi/e-comart.git
+  224  cd e-comart
+  225  code .
+  226  npm install
+  227  npm run serve
+  228  npm run serve\n: 1639031196:0;npm run serve\\nnpm run serve
+  229  npm run serve
+  230  ls
+  231  npm run serve
+  232  code .
+  233  ls 
+  234  cd admin
+  235  cd ..
+  236  cd server
+  237  ls
+  238  npm run server
+  239  npm server
+  240  npm dev server
+  241  npm run server
+  242  ls
+  243  npm server.js
+  244  npm run serve
+  245  npm run dev
+  246  npm run server
+  247  node server
+  248  ls 
+  249  cd admin
+  250  npm run serve
+  251  ls
+  252  npm run serve
+  253  npm run dev
+  254  sudo lsof -i -P -n
+  255  sudo netstat -tulpn | grep LISTEN
+  256  sudo netstat -tulpn
+  257  sudo netstat -tulpn | grep LISTEN 
+  258  ls
+  259  npm install --save vuex
+  260  npm run serve
+  261  ls
+  262  npm install --save vuex@next
+  263  npm run serve
+  264  npm run de
+  265  npm run dev
+  266  npm run serve
+  267  code .
+  268  npm run serve
+  269  yarn run serve
+  270  yarn upgrade
+  271  yarn run dev
+  272  yarn run serve
+  273  code .
+  274  npm run serve
+  275  npm run dev
+  276  git clone https://github.com/webtutsplus/ecommerce-vuejs.git
+  277  cd ecommerce-vuejs
+  278  code .
+  279  npm install
+  280  npm run dev
+  281  npm run serve
+  282  code .
+  283  cd 
+  284  cd ls
+  285  git clone
+  286  git clonehttps://github.com/ikismail/Vue-ShoppingCart.git
+  287  git clone https://github.com/ikismail/Vue-ShoppingCart.git
+  288  cd Vue-ShoppingCart
+  289  code .
+  290  npm install
+  291  npm run serve
+  292  npm run dev
+  293  npm run serve
+  294  ls
+  295  yarn install
+  296  yarn run serve
+  297  npm run serve
+  298  git clone https://github.com/mtbossa/ecommerce-page-frontend-masters.git
+  299  cd ecommerce-page-frontend-masters
+  300  code .
+  301  npm install
+  302  git clone https://github.com/mtbossa/products-cart-vue.git
+  303  cd products-cart-vue/
+  304  code .
+  305  npm install
+  306  npm run serve]
+  307  npm run serve
+  308  yarn install
+  309  yarn run dev
+  310  yarn run serve
+  311  export NODE_OPTIONS=--openssl-legacy-provider
+  312  yarn run serve
+  313  vue create ecome
+  314  cd ecome
+  315  code .
+  316  npm run serve
+  317  npm install --save vue-router
+  318  npm run serve
+  319  npm install -D sass-loader node-sass
+  320  git clone https://github.com/pouya-sabeti/ecommerce-product-page-main.git
+  321  cd ecommerce-product-page-main
+  322  code .
+  323  git clone ^[[200~https://github.com/paypay/paypay-sample-ecommerce-frontend.git~ 
+  324  git clone200~https://github.com/paypay/paypay-sample-ecommerce-frontend.git~ 
+  325  git clone https://github.com/paypay/paypay-sample-ecommerce-frontend.git
+  326  cd 
+  327  ls
+  328  cd ..
+  329  ls
+  330  git clone https://github.com/paypay/paypay-sample-ecommerce-frontend.git
+  331  cd paypay-sample-ecommerce-frontend
+  332  code .
+  333  yarn install
+  334  yarn run serve
+  335  npm start
+  336  ls
+  337  cd server
+  338  npm start
+  339  node server
+  340  npm run build
+  341  git clone https://github.com/wahabAwudu/ecommerce-vue.git
+  342  cd ecommerce-vue
+  343  code .
+  344  npm run serve
+  345  npm install --save sweetalert
+  346  npm run serve
+  347  npm install
+  348  npm run serve
+  349  code .
+  350  npm i
+  351  yarn install
+  352  sudo qbit
+  353  sudo qBittorrent
+  354  git clone https://github.com/TencentARC/GFPGAN.git
+  355  cd GFPGAN
+  356  code .
+  357  ls
+  358  pip install basicsr\n
+  359  sudo pip install basicsr\n
+  360  git clone git clone https://github.com/yangxy/GPEN.git
+  361  git clone git clone https://github.com/yangxy/GPEN.gitgit clone https:
+  362  git clone https://github.com/yangxy/GPEN.git
+  363  cd GPEN
+  364  ls
+  365  python face_enhancement.py --model GPEN-BFR-512 --size 512 --channel_multiplier 2 --narrow 1 --use_sr --use_cuda --indir examples/imgs --outdir examples/outs-BFR\n
+  366  python face_colorization.py
+  367  python
+  368  python3 face_colorization.py
+  369  python3 face_enhancement.py --model GPEN-BFR-512 --size 512 --channel_multiplier 2 --narrow 1 --use_sr --use_cuda --indir examples/imgs --outdir examples/outs-BFR
+  370  python face_inpainting.py\n
+  371  python --v
+  372  python --version 
+  373  python --version
+  374  git clone https://github.com/yangxy/GPEN.git\ncd GPEN
+  375  ls
+  376  git clone https://github.com/yangxy/GPEN.git
+  377  ls
+  378  cd GPEN
+  379  pip install -r requirements.txt
+  380  ls
+  381  ls -a
+  382  cd ./weights
+  383  ls
+  384  wget https://public-vigen-video.oss-cn-shanghai.aliyuncs.com/robin/models/RetinaFace-R50.pth -O weights/RetinaFace-R50.pth
+  385  cd ..
+  386  ls -a
+  387  wget https://public-vigen-video.oss-cn-shanghai.aliyuncs.com/robin/models/RetinaFace-R50.pth -O weights/RetinaFace-R50.pth
+  388  wget https://public-vigen-video.oss-cn-shanghai.aliyuncs.com/robin/models/GPEN-BFR-512.pth -O weights/GPEN-BFR-512.pth
+  389  wget https://public-vigen-video.oss-cn-shanghai.aliyuncs.com/robin/models/GPEN-BFR-256.pth -O weights/GPEN-BFR-256.pth
+  390  wget https://public-vigen-video.oss-cn-shanghai.aliyuncs.com/robin/models/rrdb_realesrnet_psnr.pth -O weights/rrdb_realesrnet_psnr.pth
+  391  wget https://public-vigen-video.oss-cn-shanghai.aliyuncs.com/robin/models/ParseNet-latest.pth -O weights/ParseNet-latest.pth
+  392  pyhton3
+  393  python3
+  394  python3 face_enhancement.py
+  395  affine
+  396  python3 face_enhancement.py
+  397  python3 face_inpainting.py
+  398  python3 face_colorization.py
+  399  python3 face_enhancement.py
+  400  python3 face_colorization.py
+  401  ls -a
+  402  cd weights
+  403  ls
+  404  cd ..
+  405  python3 face_colorization.py
+  406  python3 face_enhancement.py
+  407  conda install pytorch=0.4.1 cuda90 -c pytorch
+  408  pip install torch==1.0.1 torchvision==0.2.2
+  409  pip install torch==1.2.0 torchvision==0.4.0
+  410  python3 face_colorization.py
+  411  conda install
+  412  conda
+  413  pip install pytorch==1.6.0 torchvision==0.7.0 -c pytorch
+  414  pip install torch==1.6.0+cpu torchvision==0.7.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
+  415  pip install torch==1.6.0 torchvision==0.7.0
+  416  python3 face_colorization.py
+  417  pip install -c pytorch torchvision cudatoolkit=10.1 pytorch
+  418  conda install -c pytorch torchvision cudatoolkit=10.1 pytorch
+  419  install ./Anaconda3-2021.11-Linux-x86_64.sh
+  420  ls
+  421  sh Anaconda3-2021.11-Linux-x86_64.sh
+  422  exit
+  423  python3 face_colorization.py
+  424  lspci | grep -i nvidia
+  425  wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/cuda-ubuntu2004.pin\nsudo mv cuda-ubuntu2004.pin /etc/apt/preferences.d/cuda-repository-pin-600\nsudo apt-key adv --fetch-keys https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/7fa2af80.pub\nsudo add-apt-repository "deb https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/ /"\nsudo apt-get update\nsudo apt-get -y install cuda
+  426  python3 align_faces.py
+  427  python3 face_inpainting.py
+  428  python3 segmentation2face.py
+  429  python3 face_enhancement.py
+  430  python3 face_colorization.py
+  431  conda install pytorch torchvision cudatoolkit=10.1 -c pytorch
+  432  pip install pytorch torchvision cudatoolkit=10.2 -c pytorch
+  433  jupyter]
+  434  jupyter
+  435  bash Anaconda3-2021.11-Linux-x86_64.sh
+  436  conda init fish
+  437  conda list
+  438  bash Anaconda3-2021.11-Linux-x86_64.sh
+  439  cd Downloads
+  440  bash Anaconda3-2021.11-Linux-x86_64.sh
+  441  bash Anaconda3-2021.11-Linux-x86_64.sh -u
+  442  conda
+  443  conda config --set auto_activate_base false
+  444  conda init
+  445  conda activate
+  446  echo "conda activate" >> ~/.bashrc
+  447  conda activate
+  448  cd /home/ubuntu/anaconda3/bin
+  449  ./conda init bash
+  450  source ~/.bashrc
+  451  conda install -c anaconda spyder
+  452  python3 face_colorization.py
+  453  conda install pytorch torchvision torchaudio cudatoolkit=10.2 -c pytorch
+  454  python3 face_colorization.py
+  455  python3 /home/ubuntu/Desktop/Face_rec/GPEN/face_colorization.py
+  456  conda
+  457  pip3 install torch torchvision torchaudio
+  458  python3 face_colorization.py
+  459  print(torch.cuda.is_available())
+  460  /home/ubuntu/anaconda/bin/python
+  461  onda activate environment-name
+  462  conda activate
+  463  cd /home/ubuntu/anaconda3/bin
+  464  conda activate
+  465  rm -rf anaconda3
+  466  python3 face_colorization.py
+  467  conda list
+  468  pip list
+  469  pip3 install torch torchvision torchaudio
+  470  python3 face_colorization.py
+  471  cd "/home/ubuntu/.local/lib/python3.8/site-packages/torch/cuda
+  472  cd/home/ubuntu/.local/lib/python3.8/site-packages/torch/cuda
+  473  cd /home/ubuntu/.local/lib/python3.8/site-packages/torch/cuda
+  474  ls
+  475  cat __init__.py
+  476  apt search nvidia-driver
+  477  sudo apt-get remove --purge '^nvidia-.*'
+  478  sudo apt-get --purge remove "*cublas*" "cuda*" "nsight*" 
+  479  sudo apt-get --purge remove "*nvidia*"
+  480  sudo rm -rf /usr/local/cuda*
+  481  sudo /usr/local/cuda-11.4/bin/cuda-uninstaller 
+  482  sudo apt-get update 
+  483  apt-get update 
+  484  sudo apt get update
+  485  sudo apt-get update
+  486  wget -q "http://deb.playonlinux.com/public.gpg" -O - | sudo apt-key add -
+  487  sudo wget http://deb.playonlinux.com/playonlinux_trusty.list -O /etc/apt/sources.list.d/playonlinux.list\n\nsudo sh -c "echo 'deb http://download.opensuse.org/repositories/Ubuntu:/debbuild/Ubuntu_20.04/ /' > /etc/apt/sources.list.d/lutris.list"\n\nwget -nv https://download.opensuse.org/repositories/Ubuntu:/debbuild/Ubuntu_20.04/Release.key -O Release.key\n\nsudo apt-key add - < Release.key\n\nsudo apt-get update
+  488  sudo apt-get update
+  489  wget -q "http://deb.playonlinux.com/public.gpg" -O - | sudo apt-key add -\n\nsudo wget http://deb.playonlinux.com/playonlinux_trusty.list -O /etc/apt/sources.list.d/playonlinux.list\n\nsudo sh -c "echo 'deb http://download.opensuse.org/repositories/home:/strycore/xUbuntu_16.04/ /' > /etc/apt/sources.list.d/lutris.list"\n\nwget -nv https://download.opensuse.org/repositories/home:strycore/xUbuntu_16.04/Release.key -O Release.key\n\nsudo apt-key add - < Release.key\n\nsudo apt-get update 
+  490  sudo apt upgrade
+  491  sudo apt autoremove
+  492  exit
+  493  python3 face
+  494  python3 face_enhancement.py
+  495  cd /content
+  496  git clone https://github.com/bycloudai/GPEN
+  497  wget https://public-vigen-video.oss-cn-shanghai.aliyuncs.com/robin/models/RetinaFace-R50.pth && mv RetinaFace-R50.pth GPEN/weights/
+  498  wget https://public-vigen-video.oss-cn-shanghai.aliyuncs.com/robin/models/GPEN-512.pth && mv GPEN-512.pth GPEN/weights/
+  499  wget https://public-vigen-video.oss-cn-shanghai.aliyuncs.com/robin/models/GPEN-1024-Color.pth && mv GPEN-1024-Color.pth GPEN/weights/
+  500  pip install torch==1.7.1 torchvision==0.8.2 torchaudio==0.7.2
+  501  pip install pip install opencv-python
+  502  cd GPEN
+  503  wget https://github.com/ninja-build/ninja/releases/download/v1.8.2/ninja-linux.zip
+  504  sudo unzip ninja-linux.zip -d /usr/local/bin/
+  505  sudo update-alternatives --install /usr/bin/ninja ninja /usr/local/bin/ninja 1 --force
+  506  ls
+  507  python3 face_colorization.py
+  508  python3 face_enhancement.py
+  509  export CUDA_HOME=/usr/local/cuda-X.X
+  510  python3 face_enhancement.py
+  511  python3 face_colorization.py
+  512  python3 face_enhancement.py
+  513  python3 face_colorization.py
+  514  python3 face_enhancement.py
+  515  ,.dsmf.,s
+  516  d.m,sd.,mfs
+  517  sd,.fm.sdmfsd,f
+  518  exit
+  519  python3 face_enhancement.py
+  520  exity
+  521  exit
+  522  LS
+  523  ls
+  524  python3 face_colorization.py
+  525  python3 face_enhancement.py
+  526  exit
+  527  sudo -rm /usr/local/bin/ninja
+  528  sudo -rm  -f /usr/local/bin/ninja
+  529  sudo -rm  -rf /usr/local/bin/ninja
+  530  code .
+  531  npm run serve
+  532  code .
+  533  npm run serve
+  534  code .
+  535  yarn dev
+  536  npm install --save axios
+  537  code .
+  538  npm run dev
+  539  code .
+  540  ls
+  541  npm run serve
+  542  code .
+  543  npm run serve
+  544  npm run dev
+  545  code .
+  546  npm install
+  547  yarn install
+  548  yarn run serve
+  549  git clone https://github.com/techadam/foodie-frontend.git
+  550  cd foodie-frontend
+  551  code .
+  552  npm install
+  553  npm run serve
+  554  npm run dev
+  555  yarn install
+  556  yarn run serve
+  557  git clone https://github.com/henrymbuguak/Vue-js-Frontend-for-a-Simple-Shop.gitOD
+  558  cd Desktop
+  559  git clone https://github.com/henrymbuguak/Vue-js-Frontend-for-a-Simple-Shop.git
+  560  cd Vue-js-Frontend-for-a-Simple-Shop
+  561  ls 
+  562  code .
+  563  yarn install
+  564  yarn run serve
+  565  yarn run dev
+  566  git clone https://github.com/lukaszkups/vue-simple-shop.git
+  567  cd vue-simple-shop
+  568  yarn install
+  569  yarn run serve
+  570  git clone https://github.com/matheusazzi/shop-vue.git
+  571  cd vue-simple-shop
+  572  yarn install
+  573  yarn run serve
+  574  ls
+  575  cd ../shop-vue
+  576  yarn install
+  577  yarn runs erve
+  578  yarn runs serve
+  579  yarn install
+  580  npm install
+  581  npm run dev
+  582  npm run serve
+  583  code .
+  584  npm run dev
+  585  npm run serve
+  586  git clone https://github.com/sdras/sample-vue-shop.git
+  587  cd sample-vue-shop
+  588  yarn install
+  589  npm install
+  590  code .
+  591  npm run dev
+  592  npm run serve
+  593  yarn run dev
+  594  yarn run serve
+  595  npm run dev
+  596  git clone https://github.com/ananyaneogi/a-vue-shop.git
+  597  cd a-vue-shop
+  598  code .
+  599  yarn install
+  600  yarn run dev
+  601  code .
+  602  npm run serve3
+  603  npm run serve
+  604  exit
+  605  vue create example
+  606  cd example
+  607  code .
+  608  npm run serve
+  609  code .
+  610  npm run serve
+  611  code .
+  612  npm run serve
+  613  npm install element-plus --save
+  614  npm run serve
+  615  npm install @element-plus/icons-vue
+  616  npm run serve
+  617  npm install --save @element-plus/icons
+  618  npm run serve
+  619  sudo snap install instagraph 
+  620  sudo apt remove instagraph
+  621  sudo apt purge instagraph
+  622  git clone https://github.com/xelinel32/vue3-chat-app.git
+  623  cd vue3-chat-app
+  624  code .
+  625  npm install
+  626  npm run serve
+  627  npm run dev
+  628  npm run serve
+  629  ls
+  630  cd ..
+  631  ls
+  632  rm -rf vue3-chat-app
+  633  ls
+  634  sudo apt install winehq-stable
+  635  sudo apt-get update
+  636  wine --version
+  637  dpkg --print-architecture
+  638  dpkg --print-foreign-architectures
+  639  sudo dpkg --add-architecture i386
+  640  dpkg --print-foreign-architectures
+  641  wget -nc https://dl.winehq.org/wine-builds/winehq.key
+  642  sudo -H gpg -o /etc/apt/trusted.gpg.d/winehq.key.gpg --dearmor winehq.key
+  643  sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ focal main'
+  644  sudo apt update
+  645  sudo apt install --install-recommends winehq-stable
+  646  wine --version
+  647  code .
+  648  vue create Chatapp
+  649  vue create chatapp
+  650  cd chatapp
+  651  ls
+  652  npm install vue-firebase --save
+  653  npm run serve
+  654  npm install --save firebase/app
+  655  npm install vue-firebase
+  656  npm run serve
+  657  npm install --save firebase/app firebase/auth firebase/firestore firebase/storage
+  658  npm run serve
+  659  vuefire
+  660  npm install firebase
+  661  npm run serve
+  662  git clone https://github.com/fjrpambudhi74/vue_chat_app.git
+  663  cd vue_chat_app
+  664  code .
+  665  npm install
+  666  npm run serve
+  667  npm run dev
+  668  code .
+  669  npm run serve
+  670  npm install --save firebase
+  671  npm run serve
+  672  npm install --save firebase
+  673  npm audit fix
+  674  npm audit fix\n: 1639983039:0;npm audit fix
+  675  npm run serve
+  676  vue create firebase
+  677  code .
+  678  ls
+  679  npm install --save firebase
+  680  npm audit fix --force
+  681  npm run serve
+  682  cd ..
+  683  vue @cli
+  684  vue ui
+  685  ls
+  686  cd fire
+  687  ls
+  688  code .
+  689  npm install --save firebase
+  690  npm run serve
+  691  ^[[200~npm i element-plus~
+  692  npm i element-plus
+  693  npm run serve
+  694  npm create-nuxt-app test
+  695  sudo npx create-nuxt-app test
+  696  npm init nuxt-app test
+  697  cd test
+  698  code .
+  699  npm run dev
+  700  code .
+  701  npm install
+  702  npm run dev
+  703  npx browserslist@latest --update-db
+  704  npm run dev
+  705  code .
+  706  npm run dev
+  707  git clone git@github.com:xinntao/HandyView.git
+  708  sudo git clone git@github.com:xinntao/HandyView.git
+  709  cd Desktop/face_recco
+  710  git clone https://github.com/xinntao/HandyView.git
+  711  copy Handyview /usr/share/applications
+  712  cp Handyview /usr/share/applications
+  713  cp HandyView.desktop /usr/share/applications
+  714  sudo cp HandyView.desktop /usr/share/applications
+  715  sudo rm -rf HandyView.desktop
+  716  sudo cp HandyView.desktop /usr/share/applications
+  717  sudo reboot no
+  718  Exec=$command %F
+  719  sudo sed -i 's/Exec=command/Exec=command %F/' application.desktop
+  720  chmod +x  /usr/share/applications/HandyView.desktop 
+  721  sudo chmod +x  /usr/share/applications/HandyView.desktop 
+  722  sudo get update
+  723  sudo apt get update
+  724  sudo apt-get update
+  725  sudo apt get upgrade
+  726  sudo rm -rf /usr/share/applications/HandyView.desktop
+  727  cd Downloads
+  728  cd Compressed
+  729  ll
+  730  cd HandyView-master
+  731  ll
+  732  cp HandyView.desktop /usr/share/applications
+  733  sudo cp HandyView.desktop /usr/share/applications
+  734  pwd
+  735  sudo rm -rf /usr/share/applications/HandyView.desktop
+  736  cd Downloads/Compressed/HandyView-master
+  737  ls
+  738  sudo cp HandyView.desktop /usr/share/applications
+  739  pwd
+  740  install pyinstaller_install.sh
+  741  sudo nano /usr/share/applications/HandyView.desktop
+  742  sudo -rm -rf /usr/share/applications/HandyView.desktop
+  743  sudo rm -rf /usr/share/applications/HandyView.desktop
+  744  sudo cp handyview.desktop /usr/share/applications
+  745  ls
+  746  bash pyinstaller_install.sh
+  747  chmod +x pyinstaller_install.sh
+  748  bash pyinstaller_install.sh
+  749  sudo bash pyinstaller_install.sh
+  750  cd /
+  751  ll
+  752  grep "dist\n"
+  753  ll | grep "dist\n"
+  754  cd /
+  755  mkdir dist
+  756  sudo mkdir dist
+  757  cd dist
+  758  sudo cp HandyView /dist
+  759  sudo cp -r  HandyView /dist
+  760  ls
+  761  cd HandyView
+  762  sudo bash pyinstaller_install.sh
+  763  ls
+  764  sudo bash pyinstaller_install.sh
+  765  cd /
+  766  ls
+  767  sudo rm -rf dist
+  768  ls
+  769  cd /
+  770  ls
+  771  cd mnt
+  772  ls
+  773  ls -a
+  774  mkdir Xintao/Projects
+  775  sudo -r mkdir Xintao/Projects
+  776  sudo -r mkdir Xintao
+  777  sudo  mkdir Xintao
+  778  cd Xintao
+  779  mkdir Projects
+  780  sudo mkdir Projects
+  781  sudo cp HandyView /mnt/Xintao/Projects
+  782  sudo cp -r  HandyView /mnt/Xintao/Projects
+  783  ls
+  784  cd Projects
+  785  ls
+  786  cd HandyView
+  787  ls
+  788  sudo cp HandyView.desktop /usr/share/applications/
+  789  ls
+  790  git clone git@github.com:xinntao/HandyView.git
+  791  git remote set-url origin git://github.com/xinntao/HandyView.git
+  792  git remote set-url origin git://github.com/xinntao/HandyView.gi
+  793  ls 
+  794  cd /mnt
+  795  ls
+  796  sudo rm -rf Xintao
+  797  aws --version
+  798  cd Desktop
+  799  LS
+  800  touch file.py
+  801  python3 file.py
+  802  sudo jupyter
+  803  jupyter
+  804  jupyter notebook
+  805  sudo jupyter notebook
+  806  sudo su
+  807  jupyter notebook
+  808  python3 face_enhancement.py
+  809  ps
+  810  top
+  811  htop
+  812  atop
+  813  isof
+  814  egrep
+  815  wc
+  816  ps
+  817  top
+  818  xit
+  819  exit
+  820  sudo apt install tmux
+  821  tmux
+  822  top
+  823  tmux new -s program_1
+  824  sudo tmux new -s program_1
+  825  uname -a
+  826  ls cpu
+  827  lsmeme
+  828  lsmem
+  829  lscpu
+  830  ls /sbin
+  831  adduser admin
+  832  cd Desktop
+  833  vim test.txt
+  834  sudo apt install vim
+  835  cd ..
+  836  cd Documents
+  837  ls
+  838  cd ../Desktop
+  839  ls
+  840  vim test.txt
+  841  vim config.yaml
+  842  users
+  843  chmod
+  844  cat /etc/passwd
+  845  cat /etc/passwd | grep ubunut
+  846  cat /etc/passwd | grep ubuntu
+  847  vi ~/.zshrc
+  848  ls
+  849  cd ;sal;k
+  850  ls
+  851  ls -a
+  852  ls -a |grep zh
+  853  ls -a |grep zs
+  854  cat .shell.pre-oh-my-zsh
+  855  cat .shell.pre-oh-my-zsh Untitled5.ipynb
+  856  cat /var/log/syslog
+  857  cat /var/log/syslog | grep ubuntu
+  858  cat /var/log/syslog | grep docker
+  859  pip install
+  860  pip help install
+  861  pip install user
+  862  timeout
+  863  timeout help
+  864  timeout --help
+  865  pip --foreground
+  866  ls
+  867  l
+  868  sls
+  869  ls
+  870  sl
+  871  ls
+  872  l
+  873  sls
+  874  l
+  875  s
+  876  ls
+  877  ll
+  878  ls
+  879  ls -a
+  880  lsl
+  881  apt remove instagraph
+  882  dpkg --list
+  883  dpkg --list | grep insta
+  884  dpkg --list | grep instag
+  885  sudo apt-get remove instagraph
+  886  yarn cache clean
+  887  sudo rm -rf ~/.thumbs/*
+  888  sudo rm -rf ~/.cache/*
+  889  ls
+  890  exit
+  891  ls
+  892  exit
+  893  sudo useradd tom
+  894  users
+  895  sudo adduser tom
+  896  cat /etc/passwd
+  897  passwd tom
+  898  sudo passwd tom
+  899  su - tom
+  900  sudo su - tom
+  901  su - tom
+  902  users
+  903  user
+  904  cat  /etc/groups
+  905  cat  /etc/group
+  906  sudo deluser tom
+  907  ls
+  908  sudo adduser tom
+  909  sudo addgroup devops
+  910  ls
+  911  sudo usermod -g devops tom
+  912  cat /etc/group
+  913  cat /etc/passwd
+  914  delgroup tom
+  915  sudo delgroup tom
+  916  sudo usermod -G  tom ,othergroup
+  917  groups
+  918  cd Desktop
+  919  ls
+  920  ls -a
+  921  vim config.yaml
+  922  ls -l
+  923  touch text.txt
+  924  ls -l
+  925  sudo adduser tom
+  926  sudo chown tom:devops text.txt
+  927  ls -l
+  928  ls -l /etc
+  929  ls
+  930  l
+  931  sudo chown ubuntu text.txt
+  932  ls
+  933  ls -l
+  934  sudo addgroup admin
+  935  sudo chgrp admin text.txt
+  936  ls -l
+  937  cat /var/log/syslog
+  938  cat /var/log/syslog | less
+  939  cat /usr/bin
+  940  cat /usr/lib
+  941  cat /usr/lib/binfmt.d
+  942  ls
+  943  pwd
+  944  cd Desktop
+  945  touch setup.sh
+  946  vi setup.sh
+  947  ./setup.sh
+  948  ls
+  949  ll
+  950  ls -l setup.sh
+  951  sudo chmod u=rwx setup.sh
+  952  ls -l setup.sh
+  953  ./setup.sh
+  954  vi setup.sh
+  955  ./setup.sh
+  956  vi setup.sh
+  957  ./setup.sh
+  958  vi setup.sh
+  959  ls config
+  960  ./setup.sh
+  961  vi setup.sh
+  962  ./setup.sh
+  963  vi setup.sh
+  964  ./setup.sh
+  965  vi setup.sh
+  966  ./setup.sh
+  967  ls
+  968  vi setup.sh
+  969  ./setup.sh
+  970  vi setup.sh
+  971  ./setup.sh
+  972  vi setup.sh
+  973  ./setup.sh salam banan men sen 
+  974  vi setup.sh
+  975  ls
+  976  ./setup.sh salam banan men sen config 
+  977  vi setup.sh
+  978  ./setup.sh salam banan men sen config 
+  979  vi setup.sh
+  980  ./setup.sh salam banan men sen config 
+  981  vi setup.sh
+  982  ./setup.sh salam banan men sen config 
+  983  vi setup.sh
+  984  ./setup.sh salam banan men sen config 
+  985  vi setup.sh
+  986  ./setup.sh salam banan men sen config 
+  987  vi setup.sh
+  988  ./setup.sh salam banan men sen config 
+  989  cd config
+  990  mkdir lsldjkls
+  991  mkdir sjdhfksh
+  992  cd ..
+  993  ls
+  994  ./setup.sh salam banan men sen config 
+  995  vi setup.sh
+  996  ifconfig
+  997  ping 172.16.18.115
+  998  vi setup.sh
+  999  ./setup.sh 
+ 1000  vi setup.sh
+ 1001  ./setup.sh 
+ 1002  vi setup.sh
+ 1003  ./setup.sh 
+ 1004  vi setup.sh
+ 1005  ./setup.sh 
+ 1006  vi setup.sh
+ 1007  ./setup.sh 
+ 1008  vi setup.sh
+ 1009  ./setup.sh 
+ 1010  vi setup.sh
+ 1011  ./setup.sh 
+ 1012  vi setup.sh
+ 1013  ./setup.sh 
+ 1014  ./setup.sh  172.16.18.115
+ 1015  vi setup.sh
+ 1016  ./setup.sh 172.16.18.115
+ 1017  vi setup.sh
+ 1018  ./setup.sh 5
+ 1019  vi setup.sh
+ 1020  ./setup.sh 5
+ 1021  vi setup.sh
+ 1022  vi ./setup.sh 5
+ 1023  ls
+ 1024  ./ setup.sh
+ 1025  ./setup.sh
+ 1026  vi ./setup.sh 5
+ 1027  exit
+ 1028  cd Desktop
+ 1029  ./setup.sh
+ 1030  vi ./setup.sh
+ 1031  ./setup.sh
+ 1032  vi ./setup.sh
+ 1033  ./setup.sh
+ 1034  vi ./setup.sh
+ 1035  ls
+ 1036  printenv
+ 1037  printenv | less
+ 1038  printenv USER
+ 1039  echo $USER
+ 1040  users
+ 1041  export DB_USERNAME=dbuser
+ 1042  printenv USER
+ 1043  printenv | less
+ 1044  unset DB_USERNAME
+ 1045  printenv | less
+ 1046  pwd
+ 1047  vim .bashrc
+ 1048  printenv
+ 1049  source .bashrc
+ 1050  source ~/.bashrc
+ 1051  vim  ~/.zshrc
+ 1052  source  ~/.zshrc
+ 1053  printenv |grep DB
+ 1054  vim /etc/environment
+ 1055  /usr/bin/ls -l
+ 1056  echo $PATH
+ 1057  vim /etc/environment
+ 1058  clear
+ 1059  vim
+ 1060  vim welcome
+ 1061  chmod a+x welcome
+ 1062  vim .zshrc
+ 1063  source ~/.bashrc
+ 1064  source ~/.zshrc
+ 1065  cd Documents
+ 1066  ls
+ 1067  welcome
+ 1068  ls
+ 1069  cd ../
+ 1070  cd Desktop
+ 1071  welcome
+ 1072  vim .zshrc
+ 1073  vim ~./zshrc
+ 1074  vim ~/.zshrc
+ 1075  printenv
+ 1076  printenv | grep ubuntu
+ 1077  ls
+ 1078  welcome
+ 1079  ls
+ 1080  welcome
+ 1081  $PAth
+ 1082  exit
+ 1083  $PATH
+ 1084  welcome
+ 1085  exit
+ 1086  $PATH
+ 1087  vim ~/.zshrc
+ 1088  welcome
+ 1089  source ~/.zshrc
+ 1090  $PATH
+ 1091  echo $PATH
+ 1092  ls
+ 1093  netstat
+ 1094  ps aux
+ 1095  nslookup
+ 1096  nslookup google.com
+ 1097  nslookup ynamdar.com
+ 1098  ping google.com
+ 1099  netstat
+ 1100  ifconfig
+ 1101  clear
+ 1102  netstat
+ 1103  ps aux
+ 1104  cd Desktop
+ 1105  df
+ 1106  du
+ 1107  dfspace
+ 1108  ls
+ 1109  cd Desktop/
+ 1110  vim example.sh
+ 1111  ./example.sh
+ 1112  ll
+ 1113  chmod +x example.sh
+ 1114  ./example.sh
+ 1115  ls
+ 1116  cat amazing_output.txt
+ 1117  vim example.sh
+ 1118  echo $now
+ 1119  echo $NOW
+ 1120  echo "$now"
+ 1121  date
+ 1122  ls
+ 1123  cd Desktop
+ 1124  echo $0
+ 1125  echo $
+ 1126  echo $$$
+ 1127  echo $$
+ 1128  echo $#
+ 1129  echo $?
+ 1130  echo $@
+ 1131  vim example.sh
+ 1132  vim example.sh 172.16.18.115
+ 1133  ./example.sh 172.16.18.115
+ 1134  ./example.sh 172.16.18.116
+ 1135  ping -c 4 172.16.18.115
+ 1136  wc -l
+ 1137  ping -c 1 172.16.18.115
+ 1138  ping -c 1 172.16.18.116
+ 1139  find . -type d
+ 1140  find . -type d -empty
+ 1141  find ./ -type d -empty
+ 1142  ls 
+ 1143  mkdir test_devopsa
+ 1144  cd test_devopsa
+ 1145  ls
+ 1146  mkdir -r /hi/mi/fi
+ 1147  mkdir --r /hi/mi/fi
+ 1148  mkdir -R /hi/mi/fi
+ 1149  mkdir -p /hi/mi/fi
+ 1150  sudo mkdir -p hi/mi/fi/li
+ 1151  ls
+ 1152  find . -type d -empty
+ 1153  find . -type d
+ 1154  cd hi
+ 1155  touch set.txt
+ 1156  sudo touch set.txt
+ 1157  ls
+ 1158  cd ..
+ 1159  find -type d -empty
+ 1160  find . -type d -empty -delete
+ 1161  sudo find . -type d -empty -delete
+ 1162  find . -type d -empty -print
+ 1163  pwd
+ 1164  ls
+ 1165  mkdir kj
+ 1166  mkdir sdhgf
+ 1167  mkdir jkfdhkf
+ 1168  find . -type d -empty -print
+ 1169  find . -type d -empty -print -delete
+ 1170  ls
+ 1171  lsls
+ 1172  history
+ 1173  history > technan.txt
+ 1174  ls
+ 1175  cat technan.txt
+ 1176  wc -l technan.txt
+ 1177  wc  technan.txt
+ 1178  wc -w technan.txt
+ 1179  wc -c technan.txt
+ 1180  date
+ 1181  date +%b-%d-%y
+ 1182  date %b-%d-%y
+ 1183  date +%b-%d-%y
+ 1184  date +%m-%d-%y
+ 1185  date +%b-%d-%y
+ 1186  date +%g-%d-%y
+ 1187  date +%q-%d-%y
+ 1188  date +%s-%d-%y
+ 1189  date +%d-%m-%y
+ 1190  date  %d %m %y
+ 1191  date + %d %m %y
+ 1192  date %d-%m-%y
+ 1193  date +%d-%m-%y
+ 1194  ps -f
+ 1195  id u
+ 1196  id -u
+ 1197  user
+ 1198  exirt
+ 1199  exit
+ 1200  sudo shutdown now
+ 1201  git init
+ 1202  touch Readme.md
+ 1203  vim Readme.md
+ 1204  git status
+ 1205  git add .
+ 1206  git commit -m "Added Readme"
+ 1207  git push
+ 1208  git chekout
+ 1209  git checkout
+ 1210  git checkout -b
+ 1211  git -b test_branch
+ 1212  git branch test_branch
+ 1213  git checkout
+ 1214  git checkout -b
+ 1215  git b
+ 1216  git branch
+ 1217  git -b test_branch
+ 1218  git checkout test_branch
+ 1219  git remote add origin https://github.com/chopanovV/my-test.git
+ 1220  git branch -M
+ 1221  git branch -M test_branch
+ 1222  git push
+ 1223  git push --set-upstream origin test_branch
+ 1224  ssh-keygen -t rsa -b 4096 -C "chopanovv@github.com"
+ 1225  cat /home/ubuntu/.ssh/id_rsa.pub
+ 1226  git push --set-upstream origin test_branch
+ 1227  ls
+ 1228  cd Desktop
+ 1229  cd Git
+ 1230  ls
+ 1231  git push --set-upstream origin test_branch
+ 1232  git config --global user.name "Chopanov_V"
+ 1233  git config --global user.mail "chopanovv@gmail.com"
+ 1234  git push --set-upstream origin test_branch
+ 1235  git config --global credential.helper wincred
+ 1236  git pull
+ 1237  git branch --set-upstream-to=origin/<branch> test_branch
+ 1238  git branch --set-upstream-to=origin/test_branch
+ 1239  git fetch
+ 1240  git push --set-upstream origin test_branch
+ 1241  git clone 
+ 1242  git checkout master
+ 1243  git push
+ 1244  git push --set-upstream origin master
+ 1245  git branch -M main
+ 1246  git remote add origin https://github.com/chopanovV/my-test.git
+ 1247  git push -u origin main
+ 1248  git remote add origin https://gitlab.com/chopanovv/devops.git
+ 1249  git branch -M main
+ 1250  git push -uf origin main
+ 1251  git log
+ 1252  tar xvz ideaIC-2021.3.tar.gz
+ 1253  tar xvzf ideaIC-2021.3.tar.gz
+ 1254  cd idea-IC-213.5744.223
+ 1255  sudo make install
+ 1256  ./configure
+ 1257  make
+ 1258  ls
+ 1259  cd ..
+ 1260  \tls
+ 1261  cd idea-IC-213.5744.223
+ 1262  ./configure
+ 1263  sudo make install
+ 1264  make install
+ 1265  install
+ 1266  sudo snap install intellij-idea-community --classic
+ 1267  exit
+ 1268  sudo snap remove instagraph
+ 1269  ifconfig | grep "broadcast" | cut " " -f 10 cut  -d  ".
+ 1270  ifconfig | grep "broadcast" | cut " " -f 10 cut  -d  "."
+ 1271  history
+ 1272  git status
+ 1273  git config 
+ 1274  git config username
+ 1275  git config --global user.name "chopanovv"
+ 1276  git config --global user.password "informatrix"
+ 1277  git status
+ 1278  git stash
+ 1279  git log
+ 1280  git init
+ 1281  ls -a
+ 1282  rm -rf .git
+ 1283  ls -a
+ 1284  cd Desktop
+ 1285  cd Git
+ 1286  ls
+ 1287  ls -al
+ 1288  rm -rf .git
+ 1289  ls
+ 1290  git init
+ 1291  git status
+ 1292  git add .
+ 1293  git st
+ 1294  git status
+ 1295  git commit -m "first commit"
+ 1296  git push 
+ 1297  git branch
+ 1298  git chekout new_branch
+ 1299  git checkout new_branch
+ 1300  git -b checkout new_branch
+ 1301  git -b new_branch
+ 1302  git checkout -b new_branch
+ 1303  ls
+ 1304  git checkout master
+ 1305  git push branch
+ 1306  git push --set-upstream branch new_branch
+ 1307  git remote add origin https://github.com/chopanovV/my-test.git
+ 1308  git push -u origin main
+ 1309  git push -u origin master
+ 1310  ls
+ 1311  cd ..
+ 1312  sudo rm -rf ./Git
+ 1313  ls
+ 1314  mkdir TechNana
+ 1315  cd TechNana
+ 1316  git init
+ 1317  touch server.js
+ 1318  vim server.js
+ 1319  git remote add origin https://gitlab.com/chopanovv/technana_test.git
+ 1320  git push 
+ 1321  git push --set-upstream origin master
+ 1322  git branch -M main
+ 1323  git push -uf origin main
+ 1324  git branch -M main
+ 1325  git checkout main
+ 1326  git checkout -b main
+ 1327  git branch -M main
+ 1328  git checkout -b main
+ 1329  git push -uf origin main
+ 1330  ls
+ 1331  ls -l
+ 1332  ls -a
+ 1333  git remote add origin https://gitlab.com/chopanovv/technana_test.git
+ 1334  git branch -M main
+ 1335  git log
+ 1336  git checkout master
+ 1337  git branch
+ 1338  rm -rf .git
+ 1339  ls
+ 1340  git remote add origin https://gitlab.com/chopanovv/technana_test.git
+ 1341  git init
+ 1342  git config
+ 1343  git pull
+ 1344  git branch --set-upstream-to=<remote>/<branch> master
+ 1345  git remote add origin https://github.com/chopanovV/my-test.git\ngit branch -M main\ngit push -u origin main
+ 1346  git clone https://github.com/chopanovV/my-test.git
+ 1347  cd my-test
+ 1348  ls
+ 1349  ls -a
+ 1350  touch server.js
+ 1351  ls
+ 1352  git add .
+ 1353  git statis
+ 1354  git status
+ 1355  git commit -m "First commit"
+ 1356  git push
+ 1357  ls -a
+ 1358  rm -rf .git
+ 1359  ls
+ 1360  pwd
+ 1361  cd ..
+ 1362  ls
+ 1363  rm -rf my-test
+ 1364  ls
+ 1365  git init
+ 1366  git add README.md
+ 1367  touch README.md
+ 1368  git commit -m "first commit"
+ 1369  git add .
+ 1370  git commit -m "first commit"
+ 1371  git push
+ 1372  73681119736811197368111973681119
+ 1373  ^[[200~git push --set-upstream origin master~
+ 1374  git push --set-upstream origin master
+ 1375  git remote add origin https://github.com/chopanovv/DevOps.git
+ 1376  git push -u origin main
+ 1377  git global -git config user.email "chopanovv@gmail.com"
+ 1378  git global config user.email "chopanovv@gmail.com"
+ 1379  git config user.email "chopanovv@gmail.com"
+ 1380  git push -u origin main
+ 1381  git config user.email "chopanovv@gmail.com"
+ 1382  git push -u origin main
+ 1383  git -c user.name="chopanovv" -c user.email=chopanovv@gmail.com commit --amend --reset-author"\ngit push -u origin main
+ 1384  gigit -c user.name="chopanovv" -c user.email=chopanovv@gmail.com commit --amend --reset-author
+ 1385  git -c user.name="chopanovv" -c user.email=chopanovv@gmail.com commit --amend --reset-author
+ 1386  git \ngit push -u origin main
+ 1387  git push\ngit push -u origin main
+ 1388  exit
+ 1389  git config --list --show-origin
+ 1390  ls
+ 1391  cd Desktop/Git
+ 1392  echo "# DevOps" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit branch -M main\ngit remote add origin https://github.com/chopanovv/DevOps.git\ngit push -u origin main
+ 1393  git push https://\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@github.com/\chopanovv/\devops.git
+ 1394  git push
+ 1395  git log
+ 1396  git status\\nq
+ 1397  git status\nq
+ 1398  git status
+ 1399  ls
+ 1400  git checkout -b Dev
+ 1401  git push branch
+ 1402  ls
+ 1403  vim README.md
+ 1404  git status
+ 1405  git add .
+ 1406  git commit -m "added new branch"
+ 1407  git push
+ 1408  git push --set-upstream origin Dev
+ 1409  git config --global user.name "chopanovv"
+ 1410  git config --global user.email "chopanovv@gmail.com"
+ 1411  git config -l
+ 1412  git config --global credential.helper cache
+ 1413  git config --global --unset credential.helper
+ 1414  git config --system --unset credential.helper
+ 1415  sudo git config --system --unset credential.helper
+ 1416  git pull -v
+ 1417  cd Desktop/Git
+ 1418  ls
+ 1419  git pull -v
+ 1420  git branch --set-upstream-to=origin/<branch> Dev
+ 1421  git chechkout main
+ 1422  git checkout main
+ 1423  git push
+ 1424  git push --set-upstream origin main
+ 1425  vim ~/.gitconfig
+ 1426  ls
+ 1427  git push -u origin dev
+ 1428  git push -u origin Dev
+ 1429  vim ~/.gitconfig
+ 1430  git push
+ 1431  git push --set-upstream origin main
+ 1432  which git
+ 1433  sudo apt-get remove git
+ 1434  ls
+ 1435  ls -a | grep .git
+ 1436  sudo rm -rf .gitconfig
+ 1437  git
+ 1438  which git
+ 1439  sudo apt-get install git
+ 1440  git
+ 1441  cd Desktop
+ 1442  cd Git
+ 1443  ls
+ 1444  sudo rm -rf .git
+ 1445  ls -a
+ 1446  git init
+ 1447  git status
+ 1448  git add .
+ 1449  git commit -m "first comm"
+ 1450  git config --global user.email "chopanovv@gmail.com"
+ 1451  git config --global user.name "chopanovv"
+ 1452  omit --global
+ 1453  Omit --global
+ 1454  git commit -m "first comm"
+ 1455  git push 
+ 1456  git push -u origin master
+ 1457  git push -u origin main
+ 1458  git push
+ 1459  git remote add origin https://github.com/chopanovv/DevOps.git
+ 1460  git push
+ 1461  git push --set-upstream origin master
+ 1462  git remote set-url origin
+ 1463  git remote set-url origin https://github.com/chopanovv/DevOps.git
+ 1464  git remote set-url origin https://\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@github.com/\chopanovv/\Devops.git
+ 1465  git push
+ 1466  git push --set-upstream origin master
+ 1467  git branch
+ 1468  ls
+ 1469  git checkout -b development
+ 1470  ls
+ 1471  vim README.md
+ 1472  git push orgin development
+ 1473  git push origin development
+ 1474  git log
+ 1475  git branch
+ 1476  exit
+ 1477  cd Desktop/Git
+ 1478  ls
+ 1479  vim README.md
+ 1480  git add .
+ 1481  git status
+ 1482  git commit -m "changenged something in diferrent branch"
+ 1483  git push 
+ 1484  git push --set-upstream origin development
+ 1485  ls
+ 1486  git log
+ 1487  GIT LOG
+ 1488  git log
+ 1489  git checkout 31f4ba3356a6ea9f644bfe08906b8b45bb44f45b
+ 1490  vim README.md
+ 1491  git push
+ 1492  git push origin HEAD:31f4ba3356a6ea9f644bfe08906b8b45bb44f45b
+ 1493  git push origin HEAD:development
+ 1494  git status
+ 1495  git add .
+ 1496  git commit -m "changed in git log"
+ 1497  git push origin HEAD:development
+ 1498  ls
+ 1499  git log 
+ 1500  git checkout 032bcd2e850bec4e803fc51e6572f783e64355e8
+ 1501  ls
+ 1502  vim README.md README.md
+ 1503  ls 
+ 1504  git stash
+ 1505  vim README.md
+ 1506  ls 
+ 1507  git statis
+ 1508  git status
+ 1509  git add .
+ 1510  git statsh
+ 1511  git stash
+ 1512  git log
+ 1513  ls
+ 1514  git checkout development
+ 1515  git pull
+ 1516  ls
+ 1517  vim README.md
+ 1518  git stash
+ 1519  git chekout master
+ 1520  git checkout master
+ 1521  ls
+ 1522  vim
+ 1523  vim README.md
+ 1524  ls
+ 1525  git status
+ 1526  ls
+ 1527  git add .
+ 1528  git commit -m "learning some github tools"
+ 1529  ls
+ 1530  git push
+ 1531  git merge
+ 1532  ls
+ 1533  git branch
+ 1534  git log
+ 1535  git checkout 032bcd2e850bec4e803fc51e6572f783e64355e8
+ 1536  git --rebase
+ 1537  git --rebase development
+ 1538  git pull --rebase
+ 1539  git checkout development
+ 1540  git pull --rebase development
+ 1541  ls
+ 1542  cat README.md
+ 1543  git pull
+ 1544  cat README.md
+ 1545  git pull -r
+ 1546  git merge master
+ 1547  ls
+ 1548  git push
+ 1549* ssh ubuntu@172.16.18.142
+ 1550* cd /home/ubuntu/.ssh
+ 1551* ls
+ 1552* cat known_hosts
+ 1553* ls
+ 1554* sudo vim known_hosts
+ 1555* sudo rm -rf known_hosts
+ 1556* ls
+ 1557* ssh ubuntu@172.16.18.142
+ 1558* ssh tom@172.16.18.142
+ 1559* cat /home/ubuntu/.ssh/id_rsa.pub
+ 1560* ssh root@172.16.18.142
+ 1561* ssh ubuntu@172.16.18.142
+ 1562* ssh root@172.16.18.142
+ 1563* ssh ubuntu@172.16.18.142
+ 1564* ssh root@172.16.18.142
+ 1565* ssh ubuntu@172.16.18.142
+ 1566* sudo deluser tom
+ 1567* ssh ubuntu@172.16.18.142
+ 1568* exit
+ 1569* ssh root@172.16.18.142
+ 1570* ls
+ 1571* cd .ssh/
+ 1572* ls
+ 1573* scp id_rsa.pub ubuntu@172.16.18.142:/root
+ 1574* scp id_rsa.pub ubuntu@172.16.18.142:/root/
+ 1575* sudo scp id_rsa.pub ubuntu@172.16.18.142:/root/
+ 1576* ssh ubuntu@172.16.18.142
+ 1577* sudo scp id_rsa.pub ubuntu@172.16.18.142/:root/
+ 1578* sudo scp id_rsa.pub ubuntu@172.16.18.142/:ubuntu/
+ 1579* scp ./id_rsa.pub ubuntu@172.16.18.142:/ubuntu/
+ 1580* scp ./id_rsa.pub ubuntu@172.16.18.142:/
+ 1581* scp ./id_rsa.pub ubuntu@172.16.18.142:/home/ubuntu
+ 1582* exity
+ 1583* exit
+ 1584* ssh ubuntu@172.16.18.142
+ 1585* ssh yom@172.16.18.142
+ 1586* ssh tom@172.16.18.142
+ 1587* ssh root@172.16.18.142
+ 1588  cat ~/.ssh/id_rsa.pub
+ 1589* ssh ubuntu@172.16.18.142
+ 1590* ssh tommy@172.16.18.142
+ 1591* ssh root@172.16.18.142
+ 1592* exit
+ 1593  history
